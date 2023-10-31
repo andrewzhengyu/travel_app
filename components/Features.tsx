@@ -53,6 +53,7 @@ const Features = () => {
         </div>
       </div>
     </Container>
+    
   )
 }
 
