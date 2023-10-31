@@ -20,7 +20,7 @@ const Hero = () => {
             Yellowstone <span className="text-gray-500">National Park</span> 
           </h1>
           <p className="mt-6 text-gray-30 xl:max-w-[520px]">
-            Yosemite is known for its stunning natural beauty. It offers various campgrounds, from those with full amenities to more primitive sites. Be sure to make reservations well in advance, as it's a highly sought-after destination.
+            Yosemite is known for its stunning natural beauty. It offers various campgrounds, from those with full amenities to more primitive sites. Be sure to make reservations well in advance, as it&apos;s a highly sought-after destination.
           </p>
 
           <div className="my-11 flex flex-wrap gap-5">

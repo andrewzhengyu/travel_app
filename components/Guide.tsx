@@ -19,7 +19,7 @@ const Guide = () => {
           Guide you to easy path
         </h2>
         <p className="text-[16px] text-gray-500 max-w-[520px]">
-        You can confidently explore the wilderness and conquer new heights without the fear of getting lost. Our app now offers support for offline maps, ensuring that you can navigate even when you're far from an internet connection. It's the perfect tool to share with your friends, family, and fellow adventurers, as you embark on thrilling journeys through picturesque valleys and reach the summit of majestic mountains. 
+        You can confidently explore the wilderness and conquer new heights without the fear of getting lost. Our app now offers support for offline maps, ensuring that you can navigate even when you&apos;re far from an internet connection. It&apos;s the perfect tool to share with your friends, family, and fellow adventurers, as you embark on thrilling journeys through picturesque valleys and reach the summit of majestic mountains. 
         </p>
       </div>
 

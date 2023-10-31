@@ -42,6 +42,7 @@ const Features = () => {
             <ul className="mt-10 grid gap-10 md:grid-cols-2">
               {FEATURES.map((feature) => (
                 <FeatureItem
+                  key={feature.title}
                   title={feature.title}
                   icon={feature.icon}
                   variant={feature.variant}
@@ -53,7 +54,7 @@ const Features = () => {
         </div>
       </div>
     </Container>
-    
+
   )
 }
 

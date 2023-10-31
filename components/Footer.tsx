@@ -11,7 +11,7 @@ const Footer = () => {
       <h2 className="font-bold">Oomgandrew</h2>
       <div className="grid grid-cols-2 gap-2 md:gap-4 lg:gap-6 ">
         {FOOTER_LINKS.map((column) => (
-          <FooterColumn title={column.title}>
+          <FooterColumn title={column.title} key={column.title}>
             <ul className="text-base flex flex-col gap-4 text-gray-500">
               {column.links.map((link) => (
                 <Link href={"/"} key={link}>

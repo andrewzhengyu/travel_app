@@ -86,7 +86,7 @@ const Camp = () => {
           relative w-full overflow-hidden">
             <h2 className="text-[24px] lg:text-[32px] text-white font-bold">Feeling Lost and Not Knowing the Way?</h2>
             <p className="text-[14px] text-white mt-5">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That&apos;s why we are here for those of you who want to start an adventure
             </p>
             <Image
               src={"/quote.svg"}
